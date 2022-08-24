@@ -1,0 +1,26 @@
+{
+  "name": "book-record-management-10567",
+  "version": "1.0.0",
+  "description": "Book record management server build with node.js and express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aditya12gusain/book-record-management-10567.git"
+  },
+  "author": "Aditya Gusain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aditya12gusain/book-record-management-10567/issues"
+  },
+  "homepage": "https://github.com/aditya12gusain/book-record-management-10567#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
